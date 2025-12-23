@@ -1,4 +1,6 @@
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
+import { HashRouter } from "react-router-dom";
+
 import './App.css';
 
 function App() {
